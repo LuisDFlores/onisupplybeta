@@ -13,7 +13,7 @@ const Footer = () =>{
     return (
         <div className="max-w-[1240px] mx-auto py-16 px-4 lg-grid-cols-3 gap-8 text-gray-300">
         <div>
-        <h1 className="w-full text-3xl font-bold text-[#00df9a]">ONIsupply.</h1>
+                <h1 className="w-full text-3xl font-bold text-[#D5D6EA]">ONIsupply.</h1>
             <p className="py-4 "> Lorem 30</p>
             <div className="flex justify-between md:w-[75%] my-6">
                 <FaFacebookSquare size={30} />
